@@ -10,7 +10,7 @@ Web game where you should not click twice on the same pic.
 Band of Brother Memory Game is a small memory game with easy click actions.
 
 ###========== 2. How to get started? ==========
-Please visit https://bob-memory-game.herokuapp.com/ and start by clicking on a pic!
+Please visit https://bob-memory-app.herokuapp.com/ and start by clicking on a pic!
 
 ###========== 3. Who maintains and contributes? ==========
 Nicolas Kennof is the main contributor to this project.
